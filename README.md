@@ -1,7 +1,8 @@
 # ChatRoom
 A Simple Chat Room for Multi-Person Chat
 ----
-##开发环境
+
+## 开发环境
  **Java8 + Mysql5.7**
 ----
 **Server**类为服务端
